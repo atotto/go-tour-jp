@@ -378,7 +378,7 @@ Note: `Bounds` メソッドの戻り値である `Rectangle` は、 `image` パ�
 
 * Exercise: Images
 
-前に解いた、 [[/moretypes/18][画像ジェネレーター]] を覚えていますか？
+前に解いた、 [[/moretypes/18][画像ジェネレーター]]　を覚えていますか？
 今回は、データのスライスの代わりに `image.Image` インタフェースの実装を返すようにしてみましょう。
 
 自分の `Image` 型を定義し、 [[https://golang.org/pkg/image/#Image][インタフェースを満たすのに必要なメソッド]] を実装し、 `pic.ShowImage` を呼び出してみてください。

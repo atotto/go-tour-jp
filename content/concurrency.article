@@ -105,7 +105,7 @@ closeするのは、これ以上値が来ないことを受け手が知る必要
 
 * Exercise: Equivalent Binary Trees
 
-葉に同じ順序の値を保持する、異なる多くの[[https://ja.wikipedia.org/wiki/二分木][二分木( _binary_tree_ )]]]があります。
+葉に同じ順序の値を保持する、異なる多くの[[https://ja.wikipedia.org/wiki/二分木][二分木( _binary_tree_ )]]があります。
 例えば、ここに "1, 1, 2, 3, 5, 8, 13" を保持する2つの二分木があります。
 
 .image /content/img/tree.png
