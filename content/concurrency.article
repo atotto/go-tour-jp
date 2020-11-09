@@ -105,7 +105,6 @@ closeするのは、これ以上値が来ないことを受け手が知る必要
 
 * Exercise: Equivalent Binary Trees
 
-
 同じ数列を保持するような、形の異なる[[https://ja.wikipedia.org/wiki/二分木][二分木( _binary_tree_ )]]は多く存在し得ます。
 例えば、ここに数列 1, 1, 2, 3, 5, 8, 13 を保持する2つの二分木があります。
 

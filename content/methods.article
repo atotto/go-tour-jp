@@ -303,13 +303,9 @@ nil の `error` は成功したことを示し、 nilではない `error` は失
 
 メソッドを実装し、 `error` インタフェースを満たすようにします。
 
-<<<<<<< HEAD
 *注意:* `Error` メソッドの中で、 `fmt.Sprint(e)` を呼び出すことは、無限ループのプログラムになることでしょう。
 最初に `fmt.Sprint(float64(e))` として `e` を変換しておくことで、これを避けることができます。
 なぜでしょうか？
-=======
-*Note:* A call to `fmt.Sprint(e)` inside the `Error` method will send the program into an infinite loop. You can avoid this by converting `e` first: `fmt.Sprint(float64(e))`. Why?
->>>>>>> tour/master
 
 負の値が与えられたとき、 `ErrNegativeSqrt` の値を返すように `Sqrt` 関数を修正してみてください。
 
