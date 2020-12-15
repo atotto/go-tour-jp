@@ -91,9 +91,9 @@ The tour is available in other languages:
 #appengine: 上記のコマンドの実行に問題がある場合は手動でこのツアーをインストールして実行できます:
 #appengine: 
 #appengine:   go get github.com/atotto/go-tour-jp/gotour
-#appengine:   gotour
+#appengine:   tour
 #appengine: 
-#appengine: gotour ではローカルバージョンの tour を表示するウェブブラウザが開きます。
+#appengine: tour ではローカルバージョンの tour を表示するウェブブラウザが開きます。
 #appengine: 
 #appengine: もちろん、ここのウェブサイトでGo Tourを続けてもらって構いません。
 
